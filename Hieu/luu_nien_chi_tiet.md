@@ -1,225 +1,163 @@
 # 📅 Lưu Niên Chi Tiết 2020-2036 — HIEU
-### Kỷ Tỵ Nhật Chủ | ĐV hiện tại: Canh Thân (15-24) → Kỷ Mùi (25-34)
-
-> [!NOTE]
-> **Đã kiểm chứng với Master Sean Chan Calculator.** Trụ Ngày xác nhận: **Kỷ Tỵ (己巳)**. Calculator dùng quy tắc 23:00+ = ngày mới (23/10 cho mục đích tính). Nhật Chủ Vượng (Strong), Thể Cách: Thực Thần Cách (食神格).
+### Kỷ Tỵ Nhật Chủ · Dụng Thần: Hỏa · Thể Cách: Thực Thần
+### ĐV: Canh Thân (15-24) → Kỷ Mùi (25-34)
 
 ---
 
-## Nhìn Lại 2020-2025
+## Cách Đọc Lưu Niên
 
-### 2020 — Canh Tý (庚子) | Tuổi 17
-| | Chi tiết |
+> Mỗi năm, Can Chi tương tác với lá số gốc:
+> 1. **Thiên Can** = sự kiện bề ngoài (cơ hội, thử thách)
+> 2. **Địa Chi** = nền tảng bên trong (sức khỏe, cảm xúc, gia đình)
+> 3. Luôn xét trong bối cảnh **Đại Vận đang chạy**
+
+---
+
+## 2020 — Canh Tý (庚子) | Tuổi 17
+
+| Yếu tố | Phân tích |
 |---|---|
-| Thập Thần | Thương Quan (Canh) + Phiến Tài (Tý) |
-| Tương tác | **Tý-Mùi Lục Hại** (xung trụ Năm) |
-| ĐV | Canh Thân (Thương Quan) |
+| **Canh = Thương Quan** | Sáng tạo, phá khuôn, muốn chứng minh. Canh TRÙNG ĐV Canh Thân → **Thương Quan x2 = nổi loạn gấp đôi!** |
+| **Tý = Phiến Tài** | Tiền từ nguồn bất ngờ. Tý Thủy khắc Tỵ (Nhật Chi) nhẹ |
+| **Tý-Mùi Lục Hại** | Xung trụ Năm = mâu thuẫn gia đình, cảm giác **không được hiểu** |
 
-> 🔄 Thương Quan gấp đôi (ĐV Canh + LN Canh) = sáng tạo CAO nhưng cũng **nổi loạn, muốn phá khuôn**. Tý-Mùi Hại → mâu thuẫn gia đình hoặc bất an nội tâm. Năm COVID thay đổi lối sống mạnh.
+> 💡 **Suy luận:** Năm COVID. Thương Quan x2 = bạn CỰC KỲ muốn tự do nhưng bị nhốt. Tý-Mùi Hại = **gia đình cũng căng**, không phải nơi xả stress. Năm xây dựng *khao khát thay đổi* bên trong.
 
 ---
 
-### 2021 — Tân Sửu (辛丑) | Tuổi 18 ⚠️
-| | Chi tiết |
+## 2021 — Tân Sửu (辛丑) | Tuổi 18 ⚠️
+
+| Yếu tố | Phân tích |
 |---|---|
-| Thập Thần | Thực Thần (Tân) + Sửu (chứa Kỷ/Tân/Quý) |
-| Tương tác | **Sửu-Mùi Lục Xung** + nửa **Sửu-Tuất-Mùi Tam Hình** |
-| ĐV | Canh Thân |
+| **Tân = Thực Thần** | Tài năng lộ, sáng tạo nhẹ nhàng hơn Thương Quan. Phù hợp thi cử |
+| **Sửu-Mùi Lục Xung** | Xung trụ Năm = **gốc rễ bị rung** (chuyển nhà, thay đổi gia đình) |
+| **Sửu-Tuất-Mùi nửa Tam Hình** | 3 kho Thổ đụng nhau = **biến động nền tảng mạnh** |
 
-> ⚠️ **Năm biến động lớn!** Sửu xung Mùi = xung trụ Năm = thay đổi nền tảng gia đình. Sửu + Tuất + Mùi = Tam Hình Thổ → tranh chấp, mâu thuẫn. NHƯNG Thực Thần = tài năng lộ → kết quả thi cử vẫn tốt nếu nỗ lực.
+> 💡 **Suy luận:** Năm thi ĐH? Thực Thần = tài năng lộ → **thi tốt nếu đã chuẩn bị**. Nhưng Sửu xung Mùi + Tam Hình Thổ = gia đình có biến lớn (tranh cãi, chuyển nhà, thay đổi kế hoạch). Bạn phải **tự mình vượt**, không dựa được nhiều.
 
 ---
 
-### 2022 — Nhâm Dần (壬寅) | Tuổi 19 ⭐
-| | Chi tiết |
+## 2022 — Nhâm Dần (壬寅) | Tuổi 19 ⭐
+
+| Yếu tố | Phân tích |
 |---|---|
-| Thập Thần | **Chính Tài** (Nhâm) + Chính Quan (Dần) |
-| Tương tác | Dần-Tỵ **Hình** (nửa Tam Hình) |
-| ĐV | Canh Thân |
+| **Nhâm = Chính Tài** | Tài chính chính đáng + **tín hiệu tình duyên** cho nam! Nhâm trùng Can tháng gốc → kích hoạt cung sự nghiệp |
+| **Dần = Chính Quan** | Kỷ luật, hệ thống, trách nhiệm. Dần = Mộc Dương → áp lực nhưng có hướng |
+| **Dần-Tỵ Hình** | Nửa Tam Hình → áp lực tạo động lực thay đổi |
 
-> ⭐ **Năm tốt!** Chính Tài + Chính Quan = "tiền + vị trí". Dần-Tỵ Hình tạo
-áp lực nhưng có động lực thay đổi tích cực. Chính Tài lộ = tín hiệu tình cảm cho nam.
+> 💡 **Suy luận:** Chính Tài + Chính Quan = **"tiền + vị trí"** — cơ hội tốt! Nhâm kích hoạt trụ Tháng → sự nghiệp/học tập CÓ BỨT PHÁ. Tình cảm có thể nhúc nhích (Chính Tài = vợ tinh). Dần-Tỵ Hình = **phải chịu áp lực mới có kết quả**.
 
 ---
 
-### 2023 — Quý Mão (癸卯) | Tuổi 20
-| | Chi tiết |
+## 2023 — Quý Mão (癸卯) | Tuổi 20
+
+| Yếu tố | Phân tích |
 |---|---|
-| Thập Thần | Phiến Tài (Quý) + Thất Sát (Mão) |
-| Tương tác | **Mão-Tuất Lục Hợp** (hợp trụ Tháng) ✓ |
-| ĐV | Canh Thân |
+| **Quý = Phiến Tài** | Tiền phụ, đầu tư, nguồn bất ngờ |
+| **Mão = Thất Sát** | Áp lực mạnh, đối thủ. Mão = Mộc → khắc Thổ (Nhật Chủ bị ép) |
+| **Mão-Tuất Lục Hợp** | ✅ Hợp trụ Tháng! = **quý nhân sự nghiệp xuất hiện!** |
 
-> 🔄 Phiến Tài = thu nhập phụ/bất ngờ. Thất Sát = áp lực cạnh tranh. Mão hợp Tuất = **quý nhân trong sự nghiệp/học tập**. Năm xen kẽ cơ hội-thử thách, tổng thể tích cực.
+> 💡 **Suy luận:** Thất Sát đáng sợ nhưng Mão HỢP Tuất = **áp lực ĐI KÈM quý nhân**. Có người giúp bạn vượt qua. Tiền phụ = thu nhập ngoài (part-time, side project). Năm *vừa đánh vừa được che*.
 
 ---
 
-### 2024 — Giáp Thìn (甲辰) | Tuổi 21 🔄
-| | Chi tiết |
+## 2024 — Giáp Thìn (甲辰) | Tuổi 21 🔄
+
+| Yếu tố | Phân tích |
 |---|---|
-| Thập Thần | Chính Quan (Giáp) + Thìn (Thổ kho) |
-| Tương tác | **Thìn-Tuất Lục Xung** (xung trụ Tháng!) |
-| ĐV | Canh Thân |
+| **Giáp = Chính Quan** | Trách nhiệm, kỷ luật. Giáp trùng Can giờ gốc → kích hoạt cung tương lai |
+| **Thìn-Tuất Lục Xung** | ⚠️ Xung trụ Tháng (cung sự nghiệp!) = **THAY ĐỔI LỚN trong sự nghiệp/học tập** |
+| **Thìn = Thổ kho** | Chứa Nhâm (Chính Tài) → cơ hội tài chính ẩn |
 
-> 🔄 Chính Quan = kỷ luật, trách nhiệm. Thìn xung Tuất = **thay đổi trong học tập/sự nghiệp** — có thể đổi ngành, chuyển trường, hoặc chuyển job. Thìn chứa Nhâm (Chính Tài) → vẫn có cơ hội tài chính.
+> 💡 **Suy luận:** Thìn xung Tuất = xung cung sự nghiệp → **đổi ngành, chuyển trường, chuyển job, thay đổi hướng**. Chính Quan = dù đổi vẫn trong hệ thống. Thìn chứa Nhâm Tài → *đổi nhưng có tiền theo*.
 
 ---
 
-### 2025 — Ất Tỵ (乙巳) | Tuổi 22 ⚠️
-| | Chi tiết |
+## 2025 — Ất Tỵ (乙巳) | Tuổi 22 ⚠️
+
+| Yếu tố | Phân tích |
 |---|---|
-| Thập Thần | Thất Sát (Ất) + Tỵ (Hỏa = Dụng Thần!) |
-| Tương tác | Tỵ trùng Nhật Chi = **phục ngâm** |
-| ĐV | Canh Thân |
+| **Ất = Thất Sát** | Áp lực, đối thủ, bị ép phải mạnh |
+| **Tỵ trùng Nhật Chi** | **Phục ngâm!** = năm lặp lại → tâm trạng *dẫm chân tại chỗ* |
+| **Tỵ = Hỏa = Dụng Thần!** | Dù có áp lực nhưng Hỏa vẫn bảo vệ! |
 
-> ⚠️ Thất Sát = áp lực, đối thủ mạnh. NHƯNG Tỵ = Hỏa Dụng Thần → **nội lực bảo vệ**. Phục ngâm (trùng chi Ngày) → tâm trạng lên xuống, cảm giác "dẫm chân tại chỗ". Cần kiên nhẫn.
+> 💡 **Suy luận:** Thất Sát + phục ngâm = năm **khó chịu nhưng không nguy hiểm**. Bạn CẢM THẤY bế tắc nhưng thực ra vẫn tiến. Tỵ = Dụng Thần ẩn bảo vệ → *cứ làm, đừng nhìn kết quả ngay*.
 
 ---
 
-## 🌟 Hiện Tại & Tương Lai 2026-2036
+## ⭐⭐ 2026 — Bính Ngọ (丙午) | Tuổi 22-23
 
-### ⭐⭐ 2026 — Bính Ngọ (丙午) | Tuổi 22-23
-| | Chi tiết |
+| Yếu tố | Phân tích |
 |---|---|
-| Thập Thần | **Chính Ấn (Bính)** + **Hỏa cực mạnh (Ngọ)** |
-| Tương tác | Ngọ-Mùi **Lục Hợp** ✓ |
-| ĐV | Canh Thân (cuối vận) |
+| **Bính = Chính Ấn** | Quý nhân chính thống: mẹ, thầy cô, mentor. Bính = Hỏa = **DỤG THẦN LỘ!** |
+| **Ngọ = Hỏa thuần** | DỤG THẦN CỰC MẠNH cả Can lẫn Chi! |
+| **Ngọ-Mùi Lục Hợp** | ✅ Hợp trụ Năm = gia đình thuận, gốc rễ ổn! |
 
-> ⭐⭐ **NĂM TỐT NHẤT GẦN ĐÂY!**
-> - Cả Can lẫn Chi = **Hỏa = Dụng Thần cực mạnh**
-> - Chính Ấn = quý nhân, chứng chỉ, học vấn, mẹ hỗ trợ
-> - Ngọ hợp Mùi = gia đình thuận lợi
-> - **Nên tận dụng:** học chứng chỉ, khởi động dự án, xây quan hệ
+> 💡 **Suy luận:** **NĂM TỐT NHẤT 2020-2036!** Mọi yếu tố cùng hướng:
+> - Hỏa = Dụng Thần → energized, mọi thứ trôi chảy
+> - Chính Ấn = quý nhân rõ ràng → có người dẫn dắt
+> - Ngọ hợp Mùi = gia đình ủng hộ
+> 
+> **PHẢI LÀM:** Học chứng chỉ, khởi động dự án, xây quan hệ quan trọng. Năm này bỏ lỡ = uổng. **Hành động, đừng ngồi chờ!**
 
 ---
 
-### 2027 — Đinh Mùi (丁未) | Tuổi 24
-| | Chi tiết |
+## 2027 — Đinh Mùi (丁未) | Tuổi 24
+
+| Yếu tố | Phân tích |
 |---|---|
-| Thập Thần | Phiến Ấn (Đinh) + Tỷ Kiên (Mùi) |
-| Tương tác | Mùi trùng trụ Năm |
-| ĐV | Canh Thân → **chuyển Kỷ Mùi** |
+| **Đinh = Phiến Ấn** | Trực giác, học phi truyền thống. Đinh = Hỏa nhẹ → vẫn tốt |
+| **Mùi trùng trụ Năm** | Kích hoạt gốc rễ → về nhà, kết nối gia đình |
+| **Chuyển ĐV → Kỷ Mùi** | Bắt đầu 10 năm Tỷ Kiên (bạn bè, tự lập) |
 
-> 🔄 Giai đoạn chuyển tiếp ĐV. Phiến Ấn = trực giác, học phi truyền thống. Mùi trùng gốc = về nguồn, kết nối gia đình. Chuẩn bị cho ĐV mới Kỷ Mùi (Tỷ Kiên = tự lập).
+> 💡 **Suy luận:** Giai đoạn chuyển tiếp ĐV = **xáo trộn nhẹ**. Phiến Ấn = linh cảm mạnh → *tin vào trực giác*. Mùi trùng gốc = nhu cầu quay về gia đình. Nên: tổng kết 10 năm qua, lập kế hoạch 10 năm tới.
 
 ---
 
-### 2028 — Mậu Thân (戊申) ⚠️ | Tuổi 25 (ĐV mới: Kỷ Mùi)
-| | Chi tiết |
+## 2028 — Mậu Thân (戊申) ⚠️ | Tuổi 25
+
+| Yếu tố | Phân tích |
 |---|---|
-| Thập Thần | Kiếp Tài (Mậu) + Kim (Thân) |
-| Tương tác | Thân-Tỵ **Lục Hợp** ✓ nhưng Dần-Tỵ-Thân = Tam Hình tiềm ẩn |
-| ĐV | Kỷ Mùi |
+| **Mậu = Kiếp Tài** | Đối tác CẠNH TRANH tài chính. Mậu = Thổ Dương → mạnh, "cướp" tiền |
+| **Thân-Tỵ Lục Hợp** | ✅ Hợp Nhật Chi → có đồng minh bảo vệ |
+| **Năm đầu ĐV Kỷ Mùi** | Thay đổi lớn trong cuộc sống |
 
-> ⚠️ Năm đầu ĐV mới → thay đổi lớn. Kiếp Tài = cạnh tranh tài chính, đối tác tranh giành. Thân hợp Tỵ (Nhật Chi) = có đồng minh. Cần **thận trọng hợp đồng, đầu tư**.
-
----
-
-### 2029 — Kỷ Dậu (己酉) | Tuổi 26 ⭐
-| | Chi tiết |
-|---|---|
-| Thập Thần | Tỷ Kiên (Kỷ) + Thực Thần (Dậu) |
-| Tương tác | Dậu-Tuất nửa hợp Kim |
-| ĐV | Kỷ Mùi |
-
-> ⭐ Tỷ Kiên + Thực Thần = **bạn bè + sáng tạo**. Năm ổn định, vui vẻ. Phù hợp xây dựng dự án riêng, freelance. Dậu-Tuất nửa hợp = quý nhân.
+> 💡 **Suy luận:** Kiếp Tài = có người tranh tiền của bạn (đối tác, bạn bè). NHƯNG Thân hợp Tỵ = vẫn có đồng minh trung thành. **Không hùn vốn bừa bãi. Chọn người kỹ!**
 
 ---
 
-### 2030 — Canh Tuất (庚戌) | Tuổi 27 🔄
-| | Chi tiết |
-|---|---|
-| Thập Thần | Thương Quan (Canh) + Kiếp Tài (Tuất) |
-| Tương tác | Tuất trùng trụ Tháng = **phục ngâm** |
-| ĐV | Kỷ Mùi |
+## 2029-2036 Tổng Quan
 
-> 🔄 Phục ngâm cung sự nghiệp = **đổi việc hoặc thay đổi vị trí lớn**. Thương Quan = muốn đổi mới, phá khuôn. Sửu-Tuất-Mùi (ĐV) nửa Tam Hình. Năm chuyển biến sự nghiệp.
-
----
-
-### 2031 — Tân Hợi (辛亥) ⚠️ | Tuổi 28
-| | Chi tiết |
-|---|---|
-| Thập Thần | Thực Thần (Tân) + Chính Tài (Hợi) |
-| Tương tác | **Tỵ-Hợi LỤC XUNG!** (xung Nhật Chi!) |
-| ĐV | Kỷ Mùi |
-
-> ⚠️ **NĂM CẦN CHÚ Ý NHẤT!** Tỵ-Hợi Xung = xung trụ Ngày = **biến động lớn cuộc sống cá nhân**: đổi nhà, đổi mối quan hệ, sức khỏe. Thực Thần sinh Tài = có tiền nhưng phải nỗ lực. **Chuẩn bị tâm lý trước!**
-
----
-
-### ⭐ 2032 — Nhâm Tý (壬子) | Tuổi 29
-| | Chi tiết |
-|---|---|
-| Thập Thần | **Chính Tài (Nhâm)** + **Phiến Tài (Tý)** |
-| Tương tác | Tý trùng trụ Giờ + Tý-Mùi Hại |
-| ĐV | Kỷ Mùi |
-
-> ⭐ **Tài Tinh cực mạnh!** Năm kiếm tiền tốt nhất giai đoạn 25-34. Chính Tài = thu nhập ổn định, Phiến Tài = thu nhập phụ. Với nam, Chính Tài cũng = tín hiệu tình duyên. Tý-Mùi Hại = vẫn có friction gia đình. **Cân bằng tiền-tình.**
-
----
-
-### 2033 — Quý Sửu (癸丑) ⚠️ | Tuổi 30
-| | Chi tiết |
-|---|---|
-| Thập Thần | Phiến Tài (Quý) + Sửu |
-| Tương tác | **Sửu-Tuất-Mùi = TAM HÌNH** (3 kho Thổ!) |
-| ĐV | Kỷ Mùi |
-
-> ⚠️ **NAM 30 TUỔI CHUYỂN MÌNH.** Tam Hình Thổ = biến động mạnh, tranh chấp tài sản, bất động sản. Cần cẩn trọng hợp đồng, giấy tờ pháp lý. Sửu xung Mùi = thay đổi gốc rễ.
-
----
-
-### 2034 — Giáp Dần (甲寅) ⭐⚠️ | Tuổi 31
-| | Chi tiết |
-|---|---|
-| Thập Thần | Chính Quan gấp đôi (Giáp + Dần) |
-| Tương tác | Dần-Tỵ Hình |
-| ĐV | Kỷ Mùi |
-
-> ⭐⚠️ Chính Quan x2 = **thăng tiến mạnh** nếu đi làm thuê, được cấp trên đánh giá cao. Dần-Tỵ Hình = áp lực nhưng tạo kết quả. Năm **đột phá sự nghiệp nếu chịu áp lực tốt.**
-
----
-
-### 2035 — Ất Mão (乙卯) ⭐ | Tuổi 32
-| | Chi tiết |
-|---|---|
-| Thập Thần | Thất Sát (Ất) + Thất Sát (Mão) |
-| Tương tác | **Mão-Tuất Lục Hợp** ✓ |
-| ĐV | Kỷ Mùi |
-
-> ⭐ Thất Sát x2 = áp lực CỰC MẠNH nhưng Mão hợp Tuất = **quý nhân sự nghiệp bảo vệ**. Nếu xử lý tốt → **đột phá to lớn**. Năm dành cho người dám liều, dám đổi.
-
----
-
-### 2036 — Bính Thìn (丙辰) ⭐ | Tuổi 33
-| | Chi tiết |
-|---|---|
-| Thập Thần | **Chính Ấn (Bính)** = Dụng Thần! |
-| Tương tác | Thìn-Tuất Lục Xung (trụ Tháng) |
-| ĐV | Kỷ Mùi → chuẩn bị chuyển **Mậu Ngọ** |
-
-> ⭐ Bính = Hỏa Dụng Thần → quý nhân, bảo vệ, học vấn. Thìn xung Tuất = thay đổi sự nghiệp. Chuẩn bị cho ĐV Mậu Ngọ (35-44) = **20 năm hoàng kim** (Hỏa đắc lực!).
-
----
-
-## 📊 Bảng Tổng Quan
-
-| Năm | Can Chi | Đánh giá | Từ khóa |
+| Năm | Can Chi | Đánh giá | Insight sâu |
 |:---:|:---:|:---:|---|
-| 2020 | Canh Tý | 🔄 | Sáng tạo, xung gia đình |
-| 2021 | Tân Sửu | ⚠️ | Tam Hình, biến động, thi cử |
-| 2022 | Nhâm Dần | ⭐ | Chính Tài + vị trí |
-| 2023 | Quý Mão | 🔄 | Quý nhân sự nghiệp |
-| 2024 | Giáp Thìn | 🔄 | Xung trụ Tháng, đổi ngành |
-| 2025 | Ất Tỵ | ⚠️ | Áp lực + Dụng Thần bảo vệ |
-| **2026** | **Bính Ngọ** | **⭐⭐** | **NĂM ĐẸP NHẤT — Hỏa Dụng Thần!** |
-| 2027 | Đinh Mùi | 🔄 | Chuyển tiếp, về nguồn |
-| 2028 | Mậu Thân | ⚠️ | ĐV mới, cạnh tranh tài chính |
-| 2029 | Kỷ Dậu | ⭐ | Ổn định, sáng tạo |
-| 2030 | Canh Tuất | 🔄 | Đổi việc, phá khuôn |
-| 2031 | Tân Hợi | ⚠️ | **Xung Nhật Chi — biến động lớn** |
-| **2032** | **Nhâm Tý** | **⭐** | **Chính Tài mạnh, kiếm tiền tốt** |
-| 2033 | Quý Sửu | ⚠️ | Tam Hình, cẩn trọng hợp đồng |
-| 2034 | Giáp Dần | ⭐⚠️ | Thăng tiến + áp lực |
-| 2035 | Ất Mão | ⭐ | Đột phá nếu dám liều |
-| 2036 | Bính Thìn | ⭐ | Dụng Thần, quý nhân |
+| 2029 | Kỷ Dậu | ⭐ | Tỷ Kiên + Thực Thần = bạn bè + sáng tạo. Năm **ổn định, vui** |
+| 2030 | Canh Tuất | 🔄 | Thương Quan + phục ngâm trụ Tháng = **đổi việc**. Vì suy nghĩ chứ không vì bị ép |
+| 2031 | Tân Hợi ⚠️⚠️ | ⚠️ | **NĂM CẦN CHÚ Ý NHẤT!** Tỵ-Hợi Xung Nhật Chi = biến động CỰC lớn (đổi nhà, chia tay, sức khỏe). Chuẩn bị TÂM LÝ trước |
+| 2032 | Nhâm Tý ⭐ | ⭐ | Chính Tài CỰC mạnh = **kiếm tiền tốt nhất 25-34**. Tý trùng trụ Giờ → tương lai mở |
+| 2033 | Quý Sửu ⚠️ | ⚠️ | **Sửu-Tuất-Mùi = TAM HÌNH!** 3 kho Thổ đụng = tranh chấp BĐS, hợp đồng. **Đọc kỹ giấy tờ!** |
+| 2034 | Giáp Dần ⭐ | ⭐ | Chính Quan x2 = **thăng tiến mạnh**. Dần-Tỵ Hình → áp lực nhưng có kết quả |
+| 2035 | Ất Mão ⭐ | ⭐ | Thất Sát x2 nhưng Mão HỢP Tuất = **quý nhân che chở. Đột phá nếu dám liều** |
+| 2036 | Bính Thìn ⭐ | ⭐ | Chính Ấn = Dụng Thần! Chuẩn bị cho 20 năm hoàng kim 35-54 |
+
+---
+
+## 📊 Bản Đồ Chiến Lược 2026-2036
+
+```
+⭐⭐ 2026 Bính Ngọ ─── NĂM HÀNH ĐỘNG!
+     ↓
+2027-2028 ──── Chuyển ĐV, xáo trộn nhẹ
+     ↓
+2029 ⭐ ──── Ổn định, xây nền
+     ↓
+2030-2031 ⚠️ ── Biến động (đổi việc + xung Nhật Chi)
+     ↓
+⭐ 2032 ──── KIẾM TIỀN TỐT NHẤT!
+     ↓
+2033 ⚠️ ──── Tam Hình, cẩn trọng
+     ↓
+2034-2036 ⭐ ── Thăng tiến → chuẩn bị 20 năm hoàng kim
+```
+
+> [!TIP]
+> **Chiến lược:** 2026 ALL-IN → 2027-2028 chuyển đổi → 2029-2032 xây nền kinh doanh → 2034+ bay lên. Năm cẩn trọng nhất: **2031** (xung Nhật Chi) và **2033** (Tam Hình).
